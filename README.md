@@ -143,7 +143,3 @@ This project is open-source and free to use for educational and personal purpose
 
 - Inspired by beginner chatbot tutorials  
 - Built with simplicity, personalization, and clean Python structure
-```# Simple_Rule_Based_Chatbot_with_Python
-# Simple_Rule_Based_Chatbot_with_Python
-# Simple_Rule_Based_Chatbot_with_Python
-# Simple_Rule_Based_Chatbot_with_Python
